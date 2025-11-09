@@ -50,7 +50,7 @@ The dataset includes customer demographics, account information, and service usa
 
 | EDA | Confusion Matrix | Feature Importance |
 |-----|------------------|--------------------|
-| ![EDA](screenshot1.png) | ![Confusion Matrix](screenshot2.png) | ![Feature Importance](screenshot3.png) |
+| ![EDA](assets/screenshot1.png) | ![Confusion Matrix](assets/screenshot2.png) | ![Feature Importance](assets/screenshot3.png) |
 
 *(Place your project’s screenshots in a folder named `screenshots` inside the repo.)*
 
