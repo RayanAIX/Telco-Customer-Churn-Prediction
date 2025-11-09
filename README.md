@@ -52,8 +52,6 @@ The dataset includes customer demographics, account information, and service usa
 |-----|------------------|--------------------|
 | ![EDA](assets/screenshot1.png) | ![Confusion Matrix](assets/screenshot2.png) | ![Feature Importance](assets/screenshot3.png) |
 
-*(Place your project’s screenshots in a folder named `screenshots` inside the repo.)*
-
 ---
 
 ## 🧮 Model Performance
