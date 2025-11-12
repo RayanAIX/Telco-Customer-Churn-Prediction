@@ -1,7 +1,7 @@
 # 📞 Telco Customer Churn Prediction
 
 An end-to-end machine learning project that predicts customer churn for a telecom company using **XGBoost**.  
-It includes **data cleaning, preprocessing, visualization, feature importance, model training, and evaluation**, all built from scratch in **Google Colab**.
+It includes **data cleaning, preprocessing, visualization, feature importance, model training, and deployment**, all built from scratch in **Google Colab** and deployed on **Hugging Face Spaces** using **Gradio**.
 
 ---
 
@@ -21,6 +21,7 @@ This project uses the **Telco Customer Churn dataset** to predict whether a cust
 - 📈 Evaluation metrics and confusion matrix visualization  
 - 🔍 Feature importance graph  
 - 💾 Model saving for deployment  
+- 🌐 Deployed interactive demo on **Hugging Face Spaces**
 
 ---
 
@@ -33,7 +34,9 @@ This project uses the **Telco Customer Churn dataset** to predict whether a cust
 | **Seaborn, Matplotlib** | Data Visualization |
 | **Scikit-Learn** | Preprocessing, Evaluation |
 | **XGBoost** | Model Training |
+| **Gradio** | Web Interface for Deployment |
 | **Google Colab** | Development Environment |
+| **Hugging Face Spaces** | Hosting and Demo Deployment |
 
 ---
 
@@ -54,11 +57,22 @@ The dataset includes customer demographics, account information, and service usa
 
 ---
 
+## 🌐 Hugging Face Demo
+
+| Deployment Screenshot | Live Demo |
+|------------------------|------------|
+| ![Demo](huggingface_demo.png) | 🔗 [**Try the Live Model**](https://huggingface.co/spaces/MuhammadRayanShahid/Telco-Customer-Churn-Prediction) |
+
+Experience the live churn prediction model directly on Hugging Face!  
+Input customer details and get instant predictions — whether the customer is likely to churn or not.
+
+---
+
 ## 🧮 Model Performance
 
 | Metric | Score |
 |--------|-------|
-| **Accuracy** | ~80–85% |
+| **Accuracy** | ~83% |
 | **Algorithm** | XGBoost Classifier |
 
 ---
