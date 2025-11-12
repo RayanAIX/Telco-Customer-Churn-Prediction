@@ -61,7 +61,7 @@ The dataset includes customer demographics, account information, and service usa
 
 | Deployment Screenshot | Live Demo |
 |------------------------|------------|
-| ![Demo](huggingface_demo.png) | 🔗 [**Try the Live Model**](https://huggingface.co/spaces/MuhammadRayanShahid/Telco-Customer-Churn-Prediction) |
+| ![Demo](huggingface_demo.png) | 🔗 [**Try the Live Model**](https://huggingface.co/spaces/RayanAIX/Telco-Customer-Churn-Prediction) |
 
 Experience the live churn prediction model directly on Hugging Face!  
 Input customer details and get instant predictions — whether the customer is likely to churn or not.
